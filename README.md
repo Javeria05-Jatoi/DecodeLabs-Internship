@@ -16,5 +16,8 @@ An expense tracking program where users can add expenses by category, view all e
 ## Project 3: Password Generator
 A secure password tool where users can generate random passwords, save their own password and check password strength.
 
+## Project 4: General Knowledge Quiz
+An interactive quiz with 5 questions, score tracking, timer, percentage result and play again option.
+
 ---
 Built with Python 🐍 | DecodeLabs Batch 2026
